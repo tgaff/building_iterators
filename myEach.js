@@ -19,4 +19,4 @@ function myEach(arr, callback) {
 
 
 // export this function (you can ignore this for now)
-module.exports = myEach;
+// module.exports = myEach;

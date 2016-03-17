@@ -1,0 +1,18 @@
+{
+  "name": "building_iterators",
+  "main": "index.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/sf-wdi-25/building_iterators",
+  "authors": [
+    "tgaff <tgaff@alumni.nd.edu>"
+  ],
+  "description": "build your own js iterators",
+  "license": "unknown",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
